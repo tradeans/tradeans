@@ -34,7 +34,7 @@ I build **production-grade AI automation systems** using **n8n Cloud** that:
 
 ### 🤖 Telegram AI Sales Agent with Human-in-the-Loop Governance  
 *Production-grade sales automation: AI handles inquiries, inventory, orders + escalates to humans when needed*  
-→ [🎥 Watch 3-Min Demo](https://drive.google.com/file/d/1pv3jkjl67ItTWmULAOEisZxGOuYYowza/view) | [💻 View Code](https://github.com/tradeans)  
+→ [🎥 Watch 3-Min Demo](https://drive.google.com/file/d/1pv3jkjl67ItTWmULAOEisZxGOuYYowza/view) | [💻 View Code](https://github.com/tradeans/Telegram-AI-Sales-Agent)  
 
 | Business Impact | Technical Highlights |
 |----------------|---------------------|
@@ -55,7 +55,7 @@ I build **production-grade AI automation systems** using **n8n Cloud** that:
 
 ### 🔄 AI Content Repurposing Automation  
 *YouTube → Twitter thread pipeline with human-in-the-loop governance & enterprise-grade reliability*  
-→ [🎥 Watch 3-Min Demo](https://drive.google.com/file/d/1m-P1GpPmLHIeX323Vk_eEFSra00PKpzL/view) | [💻 View Code](https://github.com/tradeans)  
+→ [🎥 Watch 3-Min Demo](https://drive.google.com/file/d/1m-P1GpPmLHIeX323Vk_eEFSra00PKpzL/view) | [💻 View Code](https://github.com/tradeans/AI-Content-Repurposing-Automation)  
 
 | Business Impact | Technical Highlights |
 |----------------|---------------------|
